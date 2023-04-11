@@ -38,3 +38,34 @@ https://www.bt.cn/new/download.html
 
 ![image](https://user-images.githubusercontent.com/42108047/231050664-5f81c6a8-dd2b-4af1-8357-06216cb1fed4.png)
 
+![image](https://user-images.githubusercontent.com/42108047/231066201-3b26b298-6bdc-4d38-8b79-0666027bb0f0.png)
+
+选择public 点保存
+
+![image](https://user-images.githubusercontent.com/42108047/231066403-15242d17-9a37-4869-a989-9018cfa9a074.png)
+
+安装证书
+
+![image](https://user-images.githubusercontent.com/42108047/231066532-cfae3eed-39cb-4043-8a94-c289a593edb8.png)
+
+浏览器输入域名进入后台
+
+异步回调地址：http://您的域名/example/notify.php
+异步回调地址：http://您的域名/example/return.php
+
+![image](https://user-images.githubusercontent.com/42108047/231066740-de638342-918b-40c5-9ef8-e1e3a1949d42.png)
+
+复制通讯密钥，到php文件
+
+![image](https://user-images.githubusercontent.com/42108047/231067839-f77eaba0-bcd3-4c02-b6bc-6f443e7722e9.png)
+
+## 配置windows客户端
+
+1. 打开监听软件启动微信
+
+![image](https://user-images.githubusercontent.com/42108047/231068121-043b9a71-ba9c-4f08-96e7-ecd6a47c9fbe.png)
+
+2. ![image](https://user-images.githubusercontent.com/42108047/231068251-628e03fc-54b1-4b95-ae5c-98958ab13ab3.png)
+
+## 视频教程以及相关附件
+
