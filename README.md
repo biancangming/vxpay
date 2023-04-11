@@ -67,5 +67,6 @@ https://www.bt.cn/new/download.html
 
 2. ![image](https://user-images.githubusercontent.com/42108047/231068251-628e03fc-54b1-4b95-ae5c-98958ab13ab3.png)
 
-## 视频教程以及相关附件
+## 视频教程以及相关附件 购买地址
 
+https://faka.bianbingdang.com/buy/4
