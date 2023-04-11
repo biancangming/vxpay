@@ -65,7 +65,7 @@ https://www.bt.cn/new/download.html
 
 ![image](https://user-images.githubusercontent.com/42108047/231068121-043b9a71-ba9c-4f08-96e7-ecd6a47c9fbe.png)
 
-2. ![image](https://user-images.githubusercontent.com/42108047/231068251-628e03fc-54b1-4b95-ae5c-98958ab13ab3.png)
+![image](https://user-images.githubusercontent.com/42108047/231068251-628e03fc-54b1-4b95-ae5c-98958ab13ab3.png)
 
 ## 视频教程以及相关附件 购买地址
 
