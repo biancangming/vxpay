@@ -69,4 +69,4 @@ https://www.bt.cn/new/download.html
 
 ## 视频教程以及相关附件 购买地址
 
-https://faka.bianbingdang.com/buy/4
+http://faka.yigechengzi.cyou/
